@@ -1,9 +1,6 @@
 hello friends how
 you doing.
-python
-sql
-etl
-unix
+
 adv python
 ml
 jjds
